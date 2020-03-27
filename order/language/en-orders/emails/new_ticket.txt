@@ -1,0 +1,18 @@
+Dear %%NAME%%,
+
+Your "%%SUBJECT%%" has been received - thank you!
+
+We reply to all orders as soon as possible. If we expect your order will take additional time, we will update you by sending you an email.
+
+Your order tracking ID is: %%TRACK_ID%%
+
+You can view the status of your order here:
+%%TRACK_URL%%
+
+You will receive an email when our staff replies to your order.
+
+
+Sincerely,
+
+%%SITE_TITLE%%
+%%SITE_URL%%

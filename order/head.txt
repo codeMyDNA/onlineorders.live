@@ -1,0 +1,12 @@
+<!-- Custom code to be included before </head> tag -->
+<link rel="shortcut icon" href="../assets/images/no-virus-80x80.png" type="image/x-icon">
+
+<style>
+        .main {
+            background: url(../assets/images/background-10-8.jpg) no-repeat;
+        }
+        .cust-help a.header__logo {
+		    font-size: 36px;
+		    color: #333;
+	}
+</style>

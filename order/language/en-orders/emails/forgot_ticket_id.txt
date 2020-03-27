@@ -1,0 +1,14 @@
+Dear %%NAME%%,
+
+You indicated that you couldn't find you order ID - no big deal, happens to all of us!
+
+Here is a list of orders (%%NUM%%) submitted with your email address. 
+
+%%LIST_TICKETS%%
+
+If you didn't request these order IDs, please let us know right away! You can send email to support@islesborofood.com.
+
+Sincerely,
+
+%%SITE_TITLE%%
+%%SITE_URL%%
